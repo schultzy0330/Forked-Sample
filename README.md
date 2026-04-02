@@ -13,4 +13,4 @@ _I'm well versed in Java, and am particularly good at coding in Jupyter. Welcome
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/schultzy0330)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-schultz-6831623b1/)
 
-_"Your sample quote here!"_
+_"Hello!"_
